@@ -1,9 +1,9 @@
 # Site settings
-title: "Kinh Nghiệm Đời Sống"
-url-title: "Kinh Nghiệm Đời Sống"
-description: "mẹo vặt gia đình, mẹo vặt hàng ngày, mẹo vặt nhân gian."
+title: "Phú Quốc Đảo"
+url-title: "Điểm hẹn Phú Quốc"
+description: "Phú Quốc và nơi hẹn hò"
 paginate: 100
-url: "https://minhyeunhaudue.site"
+url: "https://site-mau-1.netlify.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
