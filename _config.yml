@@ -1,9 +1,9 @@
 # Site settings
-title: "Phú Quốc Đảo"
-url-title: "Điểm hẹn Phú Quốc"
-description: "Phú Quốc và nơi hẹn hò"
+title: "Mẹo của Bà"
+url-title: "Mẹo của Bà"
+description: "Mẹo của Bà và nơi hẹn hò"
 paginate: 100
-url: "https://site-mau-1.netlify.com"
+url: "https://ericcar.info"
 permalink: /:year/:month/:title/
 future: false
 defaults:
